@@ -103,5 +103,17 @@
         "author": "Juby210",
         "authorUrl": "https://github.com/Juby210",
         "description": "Improves user security by showing image urls if they aren't an attachment."
+    },
+    {
+        "name": "Hide Activity",
+        "author": "SirSuperDeath",
+        "authorUrl": "https://github.com/SuperDeath/",
+        "description": "When enabled, Activity will be hidden if you hover over the right side it will slide out."
+    },
+    {
+        "name": "Hide Noise Suppression powered by Krisp Button",
+        "author": "SirSuperDeath",
+        "authorUrl":"https://github.com/SuperDeath/",
+        "description":"When enabled, The Noise Suppression powered by Krisp AI Button will be hidden."
     }
 ]
