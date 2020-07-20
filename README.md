@@ -17,8 +17,8 @@ A Powercord plugin that gives you small tweaks for your Discord client
 - Hide the Gift button on the text field
 - Make guild tooltips have their old styling again
 - Bring Back Image URLs
-- Hide Activity [[Peview]](https://i.imgur.com/VWSj3FX.gif)
-- Hide Noise Suppression powered by Krisp Button
+- Hide Activity [[Preview]](https://i.imgur.com/dFHHH7E.gif)
+- Hide Noise Suppression powered by Krisp Button [[Preview]](https://i.imgur.com/VWSj3FX.gif)
 
 If you have a tweak that you would love to see in this plugin,
 just message me on Discord @ NurMarvin#1337 and I will try and add it
